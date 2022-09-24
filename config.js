@@ -30,7 +30,7 @@ var config = {
         "And hid his face amid a crowd of stars",
         "ZKJ怀挺！",
         "生日快乐!",
-        "Best wishes",
+        "Best wishes to you",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
