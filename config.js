@@ -28,6 +28,8 @@ var config = {
         "how Love fled",
         "And paced upon the mountains overhead",
         "And hid his face amid a crowd of stars",
+        "ZKJ怀挺！",
+        "生日快乐!",
         "Best wishes",
     ],
     /**
